@@ -58,4 +58,4 @@ La proporción solicitada se calcula por bytes de los archivos de código .cs y 
 
 ## Instalación:
 
--descargue este ZIP en su explorador de archivos, después, tendrá que hacer los pasos de instalación ya mencionados. (C:/Users/use123r/Documents/Codex/2026-11-21/haz-un-archivo-zip-de-un-2/outputs/NebulaOptimizer.zip) (44.1 MiB).
+-descargue este ZIP en su explorador de archivos, después, tendrá que hacer los pasos de instalación ya mencionados. outputs/NebulaOptimizer.zip
