@@ -55,3 +55,7 @@ La aplicación anima la entrada y el cambio de páginas con transiciones breves,
 ## Proporción de código
 
 La proporción solicitada se calcula por bytes de los archivos de código .cs y .bat incluidos en la fuente, excluyendo documentación, configuración y el ejecutable: C# 98.7 % y Batchfile 1.3 % (redondeado a una décima).
+
+## Instalación:
+
+-descargue este ZIP en su explorador de archivos, después, tendrá que hacer los pasos de instalación ya mencionados. [NebulaOptimizer.zip](C:/Users/use123r/Documents/Codex/2026-11-21/haz-un-archivo-zip-de-un-2/outputs/NebulaOptimizer.zip)
