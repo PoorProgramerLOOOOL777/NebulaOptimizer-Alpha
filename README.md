@@ -58,5 +58,6 @@ La proporción solicitada se calcula por bytes de los archivos de código .cs y 
 
 ## Instalación:
 
--descargue este ZIP en su explorador de archivos, después, tendrá que hacer los pasos de instalación ya mencionados. [![Descargar NebulaOptimizer](https://shields.io)](./outputs/NebulaOptimizer.zip)
+-descargue este ZIP en su explorador de archivos, después, tendrá que hacer los pasos de instalación ya mencionados. [![Descargar NebulaOptimizer (ZIP)](./outputs/NebulaOptimizer.zip)
+
 
