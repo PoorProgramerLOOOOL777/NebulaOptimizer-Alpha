@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 190" role="img" aria-labelledby="title">
+  <title id="title">Nebula Optimizer</title>
+  <defs>
+    <linearGradient id="nebula" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#28c2b1"/>
+      <stop offset="1" stop-color="#3f63c3"/>
+    </linearGradient>
+  </defs>
+  <circle cx="95" cy="95" r="86" fill="url(#nebula)"/>
+  <ellipse cx="95" cy="95" rx="64" ry="27" fill="none" stroke="#fff" stroke-opacity=".88" stroke-width="8" transform="rotate(-30 95 95)"/>
+  <circle cx="95" cy="95" r="13" fill="#fff"/>
+  <circle cx="134" cy="54" r="7" fill="#fff"/>
+  <text x="215" y="93" fill="#1c2536" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="4">NÉBULA</text>
+  <text x="220" y="137" fill="#6e7b8f" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="8">OPTIMIZER</text>
+</svg>
